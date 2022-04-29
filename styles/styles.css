@@ -1,0 +1,67 @@
+body{
+    font-family: 'Roboto', sans-serif;
+    color: #8c8d8f;
+    text-align: center;
+    padding-top: 50px;
+}
+
+li{
+    display:inline;
+    padding: 10px;
+    text-align: center;
+    font-size: small;
+}
+
+
+
+.menu{
+    padding: 50px;
+    padding-bottom: 20px;
+    text-align: center;
+}
+
+i{  
+    padding: 20px;
+    color: #8c8d8f;
+}  
+
+.works{
+    margin-top: 50px;
+}
+
+.arts{
+    height: 400px;
+    width: 500px;
+    margin-top: 10px;
+}
+
+.arts:hover{
+    filter: opacity(50%);
+}
+
+.end{
+    text-align: center;
+    font-size: smaller;
+    padding: 50px;
+}
+
+a{
+    text-decoration: none;
+    color: #8c8d8f;
+}
+
+.animations{
+    padding-top: 50px;
+}
+
+.about{
+    color: black;
+}
+
+#about{
+    padding-top: 20px;
+}
+
+#home{
+    text-decoration: underline;
+}
